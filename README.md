@@ -14,15 +14,16 @@ Interpretation: Given a list of URLs linking to job listings from indeed.com, re
 
 *Input:* ![My image](https://github.com/bobbyky/IndeedWebScraper/blob/master/Images/input1.JPG)
 
-*Output:*
+*Output:* ![My image](https://github.com/bobbyky/IndeedWebScraper/blob/master/Images/output1.JPG)
 
 **Version 2:** WebScraperbyPage.py
 
 Interpretation: Given a URL linking to a page of job listings from indeed.com, create a list of URLs from each job listing. With the list of URLs for each job listing, return the job title, location, company name, and url for each listing.
 
-*Input:*
+*Input:* ![My image](https://github.com/bobbyky/IndeedWebScraper/blob/master/Images/input2.JPG)
 
-*Output:*
+*Output:* ![My image](https://github.com/bobbyky/IndeedWebScraper/blob/master/Images/output2a.JPG)
+![My image](https://github.com/bobbyky/IndeedWebScraper/blob/master/Images/output2b.JPG)
 
 **Final Version:** WebScraper.py
 
