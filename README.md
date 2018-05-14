@@ -12,7 +12,7 @@ Web scraper built in python to scrape indeed job listings to reveal the titles, 
 
 Interpretation: Given a list of URLs linking to job listings from indeed.com, return the job title, location, company name, and url for each listing.
 
-*Input:* ![My image](bobbyky.github.com/IndeedWebScraper/Images/input1.JPG)
+*Input:* ![My image](https://github.com/bobbyky/IndeedWebScraper/blob/master/Images/input1.JPG)
 
 *Output:*
 
