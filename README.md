@@ -28,12 +28,16 @@ Interpretation: Given a URL linking to a page of job listings from indeed.com, c
 *Output:* ![My image](https://github.com/bobbyky/IndeedWebScraper/blob/master/Images/output2a.JPG)
 ![My image](https://github.com/bobbyky/IndeedWebScraper/blob/master/Images/output2b.JPG)
 
+Unfortunately, this version of the project produced an output containing information of job listings not present when you visited the given URL of the indeed.com page containing the list of jobs.
+
+*Expected Output:*
+![My image](https://github.com/bobbyky/IndeedWebScraper/blob/master/Images/output2c.JPG)
+
 **Final Version:** WebScraper.py
 
 *Input:*
 
 *Output:*
 
-Future Iterations:
 
 
