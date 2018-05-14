@@ -1,6 +1,6 @@
 # IndeedWebScraper
 
-Web scraper built in python to scrape indeed job listings to reveal the titles, locations, company names, and urls of job listings on an indeed.com page. Built using requests, beautifulSoup and Selenium libaries.
+Web scraper built in python to scrape indeed job listings to reveal the titles, locations, company names, and urls of job listings on an indeed.com page. Built using requests, BeautifulSoup and Selenium libaries.
 
 **Project: Web Scraper**
 
@@ -12,7 +12,7 @@ Web scraper built in python to scrape indeed job listings to reveal the titles, 
 
 Interpretation: Given a list of URLs linking to job listings from indeed.com, return the job title, location, company name, and url for each listing.
 
-*Input:*
+*Input:* ![ScreenShot](/IndeedWebScraper/Images/input1.JPG)
 
 *Output:*
 
